@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "Imran_Salara",
   "version": "2.1.2",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By Imran-Salara",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Imran_Salara",
+    "stop": "pm2 stop Imran_Salara",
+    "restart": "pm2 restart Imran_Salara"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
